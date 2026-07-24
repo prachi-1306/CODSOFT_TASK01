@@ -156,23 +156,25 @@ nav ul li a:hover{
 .hero{
     flex-direction:column;
     text-align:center;
+    padding: 120px 20px 40px;
 }
 .left{
     width:100%;
-    margin-top:20px;
+    /* margin-top:20px; */
 }
 .right{
     width:100%;
-    margin-top:40px;
+    /* margin-top:40px; */
 }
 .left h1{
-    font-size:70px;
+    font-size:55px;
 }
 .left h2{
-    font-size:25px;
+    font-size:28px;
 }
 .right img{
-    max-width:300px;
+    width:280px;
+    margin-top: 30px;
 }
 }
 
