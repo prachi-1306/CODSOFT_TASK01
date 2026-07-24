@@ -219,7 +219,7 @@ li{
     font-size: 20px;
 }
 
-/* .projects{
+ .projects{
     padding:100px 8%;
     margin-top: 40px; 
     background:#050816;
@@ -296,8 +296,8 @@ li{
 
 .live-btn:hover,.github-btn:hover{
     text-decoration: underline;
-} */
-.projects{
+} 
+/* .projects{
     padding:100px 8%;
     background:#050816;
 }
@@ -353,7 +353,7 @@ li{
 }
 
 .project-buttons{
-    margin-top:auto;          /*Pushes buttons to the bottom */
+    margin-top:auto;          Pushes buttons to the bottom 
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -377,7 +377,7 @@ li{
 .certificates,.skills{
     padding:100px 8%;
     background:#050816;
-}
+} */
 
 .certificates-title,.skills-title{
     text-align:center;
