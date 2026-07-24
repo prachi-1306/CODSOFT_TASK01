@@ -353,7 +353,7 @@ li{
 }
 
 .project-buttons{
-    margin-top:auto;          Pushes buttons to the bottom
+    margin-top:auto;          /*Pushes buttons to the bottom */
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -405,7 +405,6 @@ li{
     width:100%;
     max-width:1000px;
     height: auto;
-    /* min-height:300px; */
     background:#2d313e;
     color:#cbd5e1;
     border-radius:20px;
