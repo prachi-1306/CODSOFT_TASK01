@@ -21,8 +21,8 @@
 - CSS3
 - Git & GitHub
 - GitHub Pages (Deployment)
-## Portfolio Link
+## 🔗 Portfolio Link
 https://prachi-1306.github.io/CODSOFT_TASK01/
-## Internship
+## 👩‍💻 Internship
 - CodSoft - Completed Task 1 on Designing Personal Portfolio Website
 
