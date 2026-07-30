@@ -1,4 +1,4 @@
-# Personal Portfolio using Frontend Web Development
+# Personal Portfolio Website using Frontend Web Development
 ## ✨ Project Overview
 - This is a responsive Personal Portfolio Website developed using HTML5 and CSS3 to showcase my skills, projects, certifications, and professional profile.
 - The website serves as an online portfolio where visitors can learn about me, explore my work, and access my resume.
