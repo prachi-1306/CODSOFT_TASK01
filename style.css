@@ -236,7 +236,7 @@ li{
 
 .project-container{
     display:flex;
-    justify-content:left;
+    justify-content:center;
     gap:20px;
     flex-wrap:wrap;
 }
@@ -245,7 +245,7 @@ li{
     display:flex;
     flex-direction:column;
     justify-content:space-between;
-    width:350px;
+    width:30%;
     min-height:280px;
     background:#2d313e;
     color:#cbd5e1;
